@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287694229725",
+    "project_id": "tripnavigator-5074e",
+    "storage_bucket": "tripnavigator-5074e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287694229725:android:f14e60771c133699b1cb34",
+        "android_client_info": {
+          "package_name": "com.example.home_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_F_3of3EE2pmTi_R3pbedjT6ryhIJm40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
